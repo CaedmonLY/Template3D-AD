@@ -26,12 +26,3 @@ Our benchmark is built on [M3DM](https://github.com/nomewang/M3DM) and [Real3D-A
 ## BibTex Citation
 
 If you find this paper and repository useful, please cite our paper☺️.
-
-```
-@inproceedings{liu2025template3d,
-  title={Real3D-AD: A Dataset of Point Cloud Anomaly Detection},
-  author={Liu, Yi and Zhang, Changsheng and Yang, Yufei},
-  booktitle={34th International Joint Conference on Artificial Intelligence},
-  year={2025}
-}
-```
